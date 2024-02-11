@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans 700"),
+    url(/Users/laurellx/Library/Fonts/WorkSans-VariableFont_wght.ttf),
+    url(/Users/laurellx/Library/Fonts/WorkSans-Italic-VariableFont_wght);
+  src: local("Work Sans 700"),
+    url(/Users/laurellx/Library/Fonts/WorkSans-VariableFont_wght.ttf),
+    url(/Users/laurellx/Library/Fonts/WorkSans-Italic-VariableFont_wght);
+  src: local("Work Sans 400"),
+    url(/Users/laurellx/Library/Fonts/WorkSans-VariableFont_wght.ttf),
+    url(/Users/laurellx/Library/Fonts/WorkSans-Italic-VariableFont_wght);
+}
